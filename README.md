@@ -20,4 +20,21 @@
 ・VisualStudio2019  
 ・xboxコントローラー  
 
+# 担当箇所・工夫した点
 
+# 改善点
+
+# ソースファイル
+| ソースファイル | 軽い説明 |
+| --- | --- |
+
+
+
+<!-- 
+ブラウザ上で改行する様子を見せたい場合は、行末に半角スペース2個を入れる。
+| [.cs]() |  |
+| [ソースファイル名](プロジェクトに保存されているファイル名) | 説明文 |
+上の文を4行目以降にコピペしてもらって内容書き換えれば表になります
+↓例
+| [PrincessBehaviour.cs](https://github.com/shuhei-M/Zemi03_Project/blob/main/VR_ShugoWars/Assets/Scripts/Behaviour/PrincessBehaviour.cs) | 姫の挙動を管理する。 |
+-->
