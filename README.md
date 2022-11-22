@@ -27,7 +27,7 @@
 # ソースファイル
 | ソースファイル | 軽い説明 |
 | --- | --- |
-
+| [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 分身のデータ（のちに書き換え） |
 
 
 <!-- 
