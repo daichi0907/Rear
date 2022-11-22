@@ -15,20 +15,23 @@
 敵の背後をどう取るか考えながら攻略するゲームとなっており、  
 見つかるかもしれないという緊張感と作戦を考え成功したときの達成感を味わえるようなゲームとなっております。  
 
-# 使用したデバイス・ツール
-・Unity 2020.3.18f1   
-・VisualStudio2019  
-・xboxコントローラー  
 
 # 担当箇所・工夫した点
 
+
 # 改善点
+
 
 # ソースファイル
 | ソースファイル | 軽い説明 |
 | --- | --- |
 | [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 分身のデータ（のちに書き換え） |
 
+
+# 使用したデバイス・ツール
+・Unity 2020.3.18f1   
+・VisualStudio2019  
+・xboxコントローラー  
 
 <!-- 
 ブラウザ上で改行する様子を見せたい場合は、行末に半角スペース2個を入れる。
