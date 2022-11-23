@@ -46,8 +46,7 @@
 | [StageBGMScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/StageBGMScript.cs) | インゲーム中のBGM処理 | 全記述 |
 | [StartAndEndGame.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/StartAndEndGame.cs) | インゲームのスタート時と終了時の処理全般 | ・スタート時のカメラ演出処理を記述 <br> ・ゲームオーバー時の演出処理を記述 <br> ・ゲームクリア時の演出を記述 <br> ※ゲームオーバー、クリア時などの遷移処理はもう1人の方が担当しました。 |
 | [TitleBGMScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleBGMScript.cs) | タイトル画面中のBGM処理 | 全記述 |
-| [TitleController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleController.cs) | タイトル画面中の主要処理 | 
-・ステージ選択した際のフェードアウト処理を記述 <br> ・BGM、SEのサウンド関係処理を記述 <br> ・SE処理の都合上ボタンを押してから１秒待ってから遷移する処理を記述 |
+| [TitleController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleController.cs) | タイトル画面中の主要処理 | ・ステージ選択した際のフェードアウト処理を記述 <br> ・BGM、SEのサウンド関係処理を記述 <br> ・SE処理の都合上ボタンを押してから１秒待ってから遷移する処理を記述 |
 
 
 # 使用したデバイス・ツール
