@@ -20,8 +20,9 @@
 ![Rear_スタート演出](https://user-images.githubusercontent.com/71632844/203531497-be9fe6af-3415-42b4-bee4-4cd1ba9e1353.gif)
 ![Rear_プレイ映像](https://user-images.githubusercontent.com/71632844/203531510-88397d92-7141-4cf4-b20d-f88a7b0a8c29.gif)
 ![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203531520-7164a2e9-eb8c-4925-aef9-2b125d82977b.gif)
-<img src="***![Cチーム Screenshot 2022 11 23 - 17 58 39 90](https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png)***" width="***480***">
+<img src="https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png" width="480">
 
+![Cチーム Screenshot 2022 11 23 - 17 58 39 90](https://user-images.githubusercontent.com/71632844/203532228-1063cd0a-3305-4605-85d4-5284ba87dbd1.png)
 
 # 担当箇所・工夫した点
 - **<ins>演出関係全般</ins>**  
