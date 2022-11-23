@@ -47,18 +47,9 @@
 | [TitleBGMScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleBGMScript.cs) | タイトル画面中のBGM処理 | 全記述 |
 | [TitleController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleController.cs) | タイトル画面中の主要処理 | ・ステージ選択した際のフェードアウト処理を記述 <br> ・BGM、SEのサウンド関係処理を記述 <br> ・SE処理の都合上ボタンを押してから１秒待ってから遷移する処理を記述 |
 
-※上記に記載のないスクリプトファイルは私自身記述した部分のないスクリプトファイルとなっております。
+※上記に記載のないスクリプトファイルは私自身記述した部分のないスクリプトファイルとなっております。  
 
 # 使用したデバイス・ツール
 ・Unity 2020.3.18f1   
 ・VisualStudio2019  
 ・xboxコントローラー  
-
-<!-- 
-ブラウザ上で改行する様子を見せたい場合は、行末に半角スペース2個を入れる。
-| [.cs]() |  |
-| [ソースファイル名](プロジェクトに保存されているファイル名) | 説明文 |
-上の文を4行目以降にコピペしてもらって内容書き換えれば表になります
-↓例
-| [PrincessBehaviour.cs](https://github.com/shuhei-M/Zemi03_Project/blob/main/VR_ShugoWars/Assets/Scripts/Behaviour/PrincessBehaviour.cs) | 姫の挙動を管理する。 |
--->
