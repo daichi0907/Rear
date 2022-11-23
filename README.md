@@ -36,7 +36,6 @@
 | [GameSceneOther.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/GameSceneOther.cs) | どのステージを行ったかを保管し、必要に応じて呼び出すクラス | 全記述 |
 | [HornAvatarController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/HornAvatarController.cs) | ツノスライム（分身）の行動処理 | ・敵に追跡されたときの機能とそれに伴う倒れた時の追跡解除機能の記述 <br> ・アニメーション機能の記述 <br> ・壁に衝突した際のストップ処理 |
 | [NoteAvatarController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/NoteAvatarController.cs) | オンプスライム（分身）の行動処理 | 全記述 |
-| [NoteAvatarController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/NoteAvatarController.cs) | オンプスライム（分身）の行動処理 | 全記述 |
 | [PauseScripts.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/PauseScripts.cs) | ポーズ中の処理全般 | 全記述 |
 | [PlayerSEScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/PlayerSEScript.cs) | プレイヤーの行動に合わせて効果音を鳴らす | 全記述 |
 | [SearchArea.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/SearchArea.cs) | 敵のプレイヤーとツノスライムの探知処理 | ツノスライムを考慮するよう機能を追加記述 |
