@@ -30,7 +30,10 @@
 | [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 各分身の処理とデータを管理している。 | DestroyScokeOrbit関数以外記述 |
 | [ButtonSEScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/ButtonSEScript.cs) | ボタンUIを押した際や選択した際の効果音処理 | 全記述 |
 | [CntrolScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/CntrolScript.cs) | タイトル画面内のあそびかた閲覧中の処理 | 全記述 |
-| [EnemyController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/EnemyController.cs) | 敵の処理全般。  プレイヤーの探知から分身による行動の差分まで行われている。 | ・分身の探知機能を記述（分身のスキルそれぞれに合った挙動になるよう調整）  ・特定の分身(オンプスライム)を攻撃した際のスタン処理を記述  ・ゲーム後半の敵の強化機能を記述  |
+| [EnemyController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/EnemyController.cs) | 敵の処理全般。  
+プレイヤーの探知から分身による行動の差分まで行われている。 | ・分身の探知機能を記述（分身のスキルそれぞれに合った挙動になるよう調整）  
+・特定の分身(オンプスライム)を攻撃した際のスタン処理を記述  
+・ゲーム後半の敵の強化機能を記述  |
 
 
 # 使用したデバイス・ツール
