@@ -17,7 +17,7 @@
 敵の背後をどう取るか考えながら攻略するゲームとなっており、  
 見つかるかもしれないという緊張感と作戦を考え成功したときの達成感を味わえるようなゲームとなっております。  
 
-![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203529656-597d007f-33dd-4075-8544-b64562beb426.gif)
+![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203529937-8667313c-27f8-4f46-aac6-e8ad74639f2a.gif)
 
 
 # 担当箇所・工夫した点
