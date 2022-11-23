@@ -17,7 +17,10 @@
 敵の背後をどう取るか考えながら攻略するゲームとなっており、  
 見つかるかもしれないという緊張感と作戦を考え成功したときの達成感を味わえるようなゲームとなっております。  
 
-![Cチーム 2022 11 23 - 17 57 03 04](https://user-images.githubusercontent.com/71632844/203530169-b3220632-d8e9-4fd4-af2b-71458356a5c0.gif)
+![Rear_スタート演出](https://user-images.githubusercontent.com/71632844/203531497-be9fe6af-3415-42b4-bee4-4cd1ba9e1353.gif)
+![Rear_プレイ映像](https://user-images.githubusercontent.com/71632844/203531510-88397d92-7141-4cf4-b20d-f88a7b0a8c29.gif)
+![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203531520-7164a2e9-eb8c-4925-aef9-2b125d82977b.gif)
+![Cチーム Screenshot 2022 11 23 - 17 58 39 90](https://user-images.githubusercontent.com/71632844/203531540-a3affbec-74aa-4294-b1d3-ff89721dabce.png)
 
 
 # 担当箇所・工夫した点
