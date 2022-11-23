@@ -11,7 +11,7 @@
 ![タイトル画面](https://user-images.githubusercontent.com/71632844/203286021-f3ed0e09-6415-45bf-bc93-7003ca36b3df.png)
 
 # どんなゲームか
-プレイヤーはスライムとなり、敵から隠れながら背後を取って攻撃をすることで倒す「ステルスアクションゲーム」です。  
+プレイヤーはスライムとなり、兵士である敵から隠れながら背後を取って攻撃をすることで倒す「ステルスアクションゲーム」です。  
 ステージ内にいる敵を全員倒すことでゲームクリア、敵から１度でも攻撃されてしまうとゲームオーバーとなります。  
 スライムは「分身」を使うことで、敵をおびき寄せたり隠れたりすることが出来ます。  
 敵の背後をどう取るか考えながら攻略するゲームとなっており、  
@@ -25,9 +25,12 @@
 
 
 # ソースファイル
-| ソースファイル | 軽い説明 | 記述部分 |
+| ソースファイル | 軽い説明 | 記述・担当部分 |
 | --- | --- | --- |
 | [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 各分身の処理とデータを管理している。 | DestroyScokeOrbit関数以外記述 |
+| [ButtonSEScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/ButtonSEScript.cs) | ボタンUIを押した際や選択した際の効果音処理 | 全記述 |
+| [CntrolScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/CntrolScript.cs) | タイトル画面内のあそびかた閲覧中の処理 | 全記述 |
+| [EnemyController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/EnemyController.cs) | 敵の処理全般。  プレイヤーの探知から分身による行動の差分まで行われている。 | ・分身の探知機能を記述（分身のスキルそれぞれに合った挙動になるよう調整）  ・特定の分身(オンプスライム)を攻撃した際のスタン処理を記述  ・ゲーム後半の敵の強化機能を記述  |
 
 
 # 使用したデバイス・ツール
