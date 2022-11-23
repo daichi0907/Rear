@@ -25,9 +25,9 @@
 
 
 # ソースファイル
-| ソースファイル | 軽い説明 |
-| --- | --- |
-| [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 分身のデータ（のちに書き換え） |
+| ソースファイル | 軽い説明 | 記述部分 |
+| --- | --- | --- |
+| [AvatarData.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/AvatarData.cs) | 各分身の処理とデータを管理している。 | DestroyScokeOrbit関数以外記述 |
 
 
 # 使用したデバイス・ツール
