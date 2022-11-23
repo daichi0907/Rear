@@ -47,6 +47,7 @@
 | [TitleBGMScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleBGMScript.cs) | タイトル画面中のBGM処理 | 全記述 |
 | [TitleController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/TitleController.cs) | タイトル画面中の主要処理 | ・ステージ選択した際のフェードアウト処理を記述 <br> ・BGM、SEのサウンド関係処理を記述 <br> ・SE処理の都合上ボタンを押してから１秒待ってから遷移する処理を記述 |
 
+※上記に記載のないスクリプトファイルは私自身記述した部分のないスクリプトファイルとなっております。
 
 # 使用したデバイス・ツール
 ・Unity 2020.3.18f1   
