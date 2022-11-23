@@ -19,11 +19,27 @@
 
 
 # 担当箇所・工夫した点
+- **<ins>演出関係全般</ins>**  
+　ステージがすべて洞窟であることや「ステルスアクション」というジャンルであることから、その雰囲気がゲーム最中だけではなくゲームの導入部分から出すことでプレイヤーに没入感を与えるよう工夫しました。  
+ 　またチーム全体で演出に関して随時相談することで、インゲーム開始時のステージ全体のポイントとなる部分を見せる処理の追加や、ステージクリア時の達成感を与えるような演出など、ゲーム内の「間」をうまく利用した演出にすることができたと感じます。  
+  
 - **<ins>各分身のデータ管理</ins>**  
 　各種分身のデータを一つのクラスで管理することで、インスタンス化処理やクールタイム処理をまとめてデータの参照を他の人からもしやすくなるようにしました。  
-<ins>・各分身の行動処理とそれに伴う敵の挙動の追加</ins>  
- - 各分身のデータ管理
-　
+ 
+- **<ins>各分身の行動処理とそれに伴う敵の挙動の追加</ins>**  
+　Listで探知した敵もしくは煙で見えなくなっている敵のデータを格納し、倒れたり効果が切れ消えた際にListのデータを解放することで敵の挙動がスムーズになるようにしました。  
+　また、ユーザーがプレイしていて直感的に操作できるよう、ケムリスライム選択時に投げる軌道を可視化する処理をプログラミングしました。  
+　敵の挙動の追加では敵の処理を主に作っていたもう一人のプログラマーと相談しあいながら処理を追加していくことで、効率よく処理の追加をすることができました。  
+
+- **<ins>サウンド関係全般</ins>**  
+　 敵やプレイヤーなどあまり私自身が関与していない部分の効果音は、下手に干渉してバグが発生しないようスクリプトを分けるなどの工夫をして実装することで、音の動機ずれや既存の処理にバグが出るような不具合などを発生させずに実装することができました。  
+  
+
+- **<ins>その他工夫した点</ins>**
+　プランナーが一人であることもあったため、積極的にアイデア出しや仮実装をしてチーム全体で共有するといったことをプログラマー２人で行うようにしていました。その結果プランナーの方はレベルデザインに注力することができ、効率よく制作を行うことができました。  
+　随時やっている内容や終わった内容をプログラマー同士だけではなくチーム全体で共有することで、半年という短い期間でブラッシュアップまで持って行けた作品に仕上がりました。  
+　プログラムのことだけでなくプランナーのレベルデザインに関する相談に乗ったり、デザイナーと演出についてアイデアや意見を持ち合わせて考えあったりすることでよりゲームらしい作品にし充てることができました。
+  
 
 # 改善点
 
@@ -41,6 +57,7 @@
 | [HornAvatarController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/HornAvatarController.cs) | ツノスライム（分身）の行動処理 | ・敵に追跡されたときの機能とそれに伴う倒れた時の追跡解除機能の記述 <br> ・アニメーション機能の記述 <br> ・壁に衝突した際のストップ処理 |
 | [NoteAvatarController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/NoteAvatarController.cs) | オンプスライム（分身）の行動処理 | 全記述 |
 | [PauseScripts.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/PauseScripts.cs) | ポーズ中の処理全般 | 全記述 |
+| [PlayerController.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/PlayerController.cs) | プレイヤーの処理全般 | 草に隠れているときの演出処理のみ記述 |
 | [PlayerSEScript.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/PlayerSEScript.cs) | プレイヤーの行動に合わせて効果音を鳴らす | 全記述 |
 | [SearchArea.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/SearchArea.cs) | 敵のプレイヤーとツノスライムの探知処理 | ツノスライムを考慮するよう機能を追加記述 |
 | [SmokeArea.cs](https://github.com/daichi0907/Rear/blob/main/Rear_MasterVersion_Project/Assets/Scripts/SmokeArea.cs) | ケムリスライムの煙で敵の探知機能を阻害する | ケムリスライムが消えた際、阻害を受けていた敵のフラグを落とす処理を記述（EnemySmokedReset関数） |
