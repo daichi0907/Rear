@@ -7,7 +7,7 @@
 ・プログラマー：２名　（自分 + 1名）  
   
 計５名  
-　　
+  
 (下記に担当箇所の記載あり)  
 
 ![タイトル画面](https://user-images.githubusercontent.com/71632844/203286021-f3ed0e09-6415-45bf-bc93-7003ca36b3df.png)
