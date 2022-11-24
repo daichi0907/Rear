@@ -28,7 +28,7 @@
 ![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203531520-7164a2e9-eb8c-4925-aef9-2b125d82977b.gif)  
 ⓷ゲームクリア時の映像  
   
-<img src="https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png" width="480">  
+<img src="https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png" width="480">
 ⓸操作方法画面（あそびかた画面より）  
 
 
