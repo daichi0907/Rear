@@ -19,13 +19,13 @@
 敵の背後をどう取るか考えながら攻略するゲームとなっており、  
 見つかるかもしれないという緊張感と作戦を考え成功したときの達成感を味わえるようなゲームとなっております。  
 
-![Rear_スタート演出](https://user-images.githubusercontent.com/71632844/203531497-be9fe6af-3415-42b4-bee4-4cd1ba9e1353.gif)
+![Rear_スタート演出](https://user-images.githubusercontent.com/71632844/203531497-be9fe6af-3415-42b4-bee4-4cd1ba9e1353.gif)  
 ⓵インゲームスタート時の映像  
-![Rear_プレイ映像](https://user-images.githubusercontent.com/71632844/203531510-88397d92-7141-4cf4-b20d-f88a7b0a8c29.gif)
+![Rear_プレイ映像](https://user-images.githubusercontent.com/71632844/203531510-88397d92-7141-4cf4-b20d-f88a7b0a8c29.gif)  
 ⓶プレイ中の映像  
-![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203531520-7164a2e9-eb8c-4925-aef9-2b125d82977b.gif)
+![Rear_クリアシーン](https://user-images.githubusercontent.com/71632844/203531520-7164a2e9-eb8c-4925-aef9-2b125d82977b.gif)  
 ⓷ゲームクリア時の映像
-<img src="https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png" width="480">
+<img src="https://user-images.githubusercontent.com/71632844/203532010-c7f68808-f72c-4a5e-a99b-96401eceaa01.png" width="480">  
 ⓸操作方法画面（あそびかた画面より）  
 
 
